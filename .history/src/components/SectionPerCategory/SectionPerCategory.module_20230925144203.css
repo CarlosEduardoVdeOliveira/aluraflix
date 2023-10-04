@@ -1,0 +1,9 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  overflow: scroll;
+}
+.videos{
+  display: flex;
+  width: 100%;
+}

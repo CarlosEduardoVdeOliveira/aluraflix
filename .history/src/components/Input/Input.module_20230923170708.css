@@ -1,0 +1,19 @@
+.input{
+  color: var(--gray-175);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  width: 100%;
+  padding: .4rem;
+  background-color: var(--gray-300);
+  outline: none;
+  border: none;
+}
+
+.input[type='color']{
+  padding: 0;
+}
+.input:focus{
+ border-bottom: 2px solid blue;
+}

@@ -1,0 +1,9 @@
+.container{
+  min-width: 206px;
+  max-width: 206px;
+  height: 60px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 35px;
+}

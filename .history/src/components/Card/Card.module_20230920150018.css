@@ -1,0 +1,18 @@
+.container{
+  position: relative;
+  top: -100px;
+  display: flex;
+  margin-left: 20px;
+  gap: 22px;
+  scroll-behavior: smooth;
+}
+.card{
+  width: 433px;
+  height: 263px;
+  border-radius: .25rem;
+}
+.card img{
+  width: 430px;
+  height: 260px;
+  border-radius: .25rem;
+}

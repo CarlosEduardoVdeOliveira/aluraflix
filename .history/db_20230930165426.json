@@ -1,0 +1,236 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=k77WZrvuDQU&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/k77WZrvuDQU/sddefault.jpg",
+      "category": "Front End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 2,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=k77WZrvuDQU&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 3,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 4,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 5,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 6,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 7,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=MGIs7DSQ-0A&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/MGIs7DSQ-0A/maxresdefault.jpg",
+      "category": "Mobile",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 8,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=MGIs7DSQ-0A&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/MGIs7DSQ-0A/maxresdefault.jpg",
+      "category": "Mobile",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 9,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=MGIs7DSQ-0A&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/MGIs7DSQ-0A/maxresdefault.jpg",
+      "category": "Mobile",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 10,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 11,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 12,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 13,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "UX",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 14,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "UX",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 15,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "UX",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 16,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Infra",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 17,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Infra",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 18,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Infra",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 19,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Inovation",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 20,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Inovation",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 21,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Inovation",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 22,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "AI",
+      "description": "Descrição qualquer"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Front End",
+      "description": "Todos os vídeo da área de Front End juntarei nessa categoria para organizar os estudos que venho fazendo atualmente (FieldTextarea)",
+      "color": "#6BD1FF"
+    },
+    {
+      "id": 2,
+      "name": "Back End",
+      "description": "Todos os vídeo que estou usando para estudar Back End ",
+      "color": "#69953B"
+    },
+    {
+      "id": 3,
+      "name": "Design & UX",
+      "description": "Ferramentas e técnicas que estudo sobre UX e Design",
+      "color": "#DC6EBE"
+    },
+    {
+      "id": 4,
+      "name": "Infraestrutura",
+      "description": "Tudo que estou aprendendo sobre Docker e muito mais",
+      "color": "#9CD33B"
+    },
+    {
+      "id": 5,
+      "name": "Marketing Digital",
+      "description": "A forma de vender a monetizar minhas ideias",
+      "color": "#6B5BE2"
+    },
+    {
+      "id": 6,
+      "name": "Data Science",
+      "description": "Coisas de R e Python que venho aprendendo",
+      "color": "#9CD33B"
+    },
+    {
+      "id": 7,
+      "name": "Inovação & Gestão",
+      "description": "Como manter o time feliz e muito mais",
+      "color": "#FF8C2A"
+    },
+    {
+      "id": 8,
+      "name": "Mobile",
+      "description": "Conteúdo que venho estudando sobre React Native e Flutter",
+      "color": "#FFBA05"
+    },
+    {
+      "id": 9,
+      "name": "AI",
+      "description": "Conteúdo que venho estudando sobre React Native e Flutter",
+      "color": "#B210C7"
+    }
+  ]
+}

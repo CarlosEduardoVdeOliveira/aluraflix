@@ -1,0 +1,24 @@
+.container{
+  width: 100%;
+  color: #fff;
+  margin: 1.938rem 2.5rem;
+  border-collapse: collapse;
+  border: 2px solid var(--blue-500);
+  padding: 1rem;
+}
+
+.title{
+  border: 2px solid var(--blue-500);
+}
+
+.title th{
+  border-left: 2px solid var(--blue-500);
+  text-align: left;
+  padding: .5rem;
+}
+.content td{
+  padding: .5rem;
+  border-left: 2px solid var(--blue-500);
+
+}
+

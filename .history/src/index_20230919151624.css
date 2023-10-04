@@ -1,0 +1,33 @@
+:root {
+  --gray-100: #F5F5F5
+  --gray-150: #E5E5E5
+  --gray-500: #191919;
+  --blue-500: #2A7AE4;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-size: 1rem;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+}
+body{
+  background-color: var(--gray-500)
+}
+a {
+  text-decoration: none;
+  transiton: .5s all ease-out;
+}
+
+button{
+  cusor: pointer;
+  transiton: .5s all ease-out;
+}

@@ -1,0 +1,15 @@
+.container{
+  position: relative;
+  top: -100px;
+  display: flex;
+  margin-left: 20px;
+  gap: 22px;
+}
+.card{
+  width: 305px;
+  height: 93px;
+}
+.card img{
+  width: 300px;
+  height: 90px;
+}

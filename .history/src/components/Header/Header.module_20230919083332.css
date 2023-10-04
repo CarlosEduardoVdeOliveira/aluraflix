@@ -1,0 +1,10 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  padding: 1.688rem 2.5rem;
+}
+
+.container img{
+  width: 168.45px;
+  height: 40px;
+}

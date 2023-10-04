@@ -1,0 +1,27 @@
+.container{
+  position: relative;
+  top: calc((433px / 4)*-1);
+  display: flex;
+  margin-left: 20px;
+  gap: 22px;
+  overflow: hidden;
+}
+.card{
+  width: 433px;
+  height: 263px;
+  border-radius: .25rem;
+  animation: slideAnimation 5s infinite alternate;
+}
+.card img{
+  width: 430px;
+  height: 260px;
+  border-radius: .25rem;
+}
+@keyframes slideAnimation {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%); /* Isso move o slide para a esquerda */
+  }
+}

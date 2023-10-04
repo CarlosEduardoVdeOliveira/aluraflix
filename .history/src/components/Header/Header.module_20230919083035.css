@@ -1,0 +1,9 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.container img{
+  width: 168.45px;
+height: 40px;
+}

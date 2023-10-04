@@ -1,0 +1,20 @@
+.container{
+  position: relative;
+  top: calc((433px / 4)*-1);
+  display: flex;
+  margin-left: 20px;
+  gap: 22px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.card{
+  display: inline-block;
+  width: 433px;
+  height: 263px;
+  border-radius: .25rem;
+}
+.card img{
+  width: 430px;
+  height: 260px;
+  border-radius: .25rem;
+}

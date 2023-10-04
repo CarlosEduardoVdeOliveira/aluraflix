@@ -1,0 +1,11 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  overflow: none;
+  gap: 1rem;
+  margin-top: 100px;
+}
+.videos{
+  display: flex;
+  width: 10px;
+}

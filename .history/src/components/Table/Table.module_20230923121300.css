@@ -1,0 +1,7 @@
+.container{
+  width: 100%;
+  color: #fff;
+  margin: 1.938rem 2.5rem;
+  border-collapse: collapse;
+  border-color: var(--blue-500);
+}

@@ -1,0 +1,14 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 80%;
+  margin: 2rem auto;
+  gap: .5rem;
+}
+
+.groupButton{
+  display: flex;
+  gap: 1rem;
+}

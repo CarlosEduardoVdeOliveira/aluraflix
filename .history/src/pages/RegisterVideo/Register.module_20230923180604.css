@@ -1,0 +1,23 @@
+.container{
+  width: 100%;
+  margin: 2rem auto;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+
+.groupButton{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.subGroupButton{
+  display: flex;
+  gap: 2rem;
+}

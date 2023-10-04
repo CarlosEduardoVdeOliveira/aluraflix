@@ -1,0 +1,10 @@
+.cointainer{
+  width: 296px;
+  height: 92px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 60px;
+  color: #FFF;
+  background-color: #6BD1FF;
+}

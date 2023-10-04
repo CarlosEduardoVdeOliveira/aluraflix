@@ -1,0 +1,17 @@
+.container{
+  position: relative;
+  top: calc((433px / 3)*-1);
+  display: flex;
+  margin-left: 20px;
+  gap: 22px;
+}
+.card{
+  width: 433px;
+  height: 263px;
+  border-radius: .25rem;
+}
+.card img{
+  width: 430px;
+  height: 260px;
+  border-radius: .25rem;
+}

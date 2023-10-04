@@ -1,0 +1,12 @@
+.container{
+  width: 300px;
+  height: 60px;
+  padding: 5px;
+  text-align: center;
+  border-radius: 5px;
+  font-size: 35px;
+  white-space: nowrap;
+  display: -webkit-box;
+  
+  -webkit-box-orient: vertical; 
+}

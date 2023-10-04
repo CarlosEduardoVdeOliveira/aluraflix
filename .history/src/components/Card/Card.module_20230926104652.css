@@ -1,0 +1,11 @@
+.card{
+  width: fit-content;
+  height: 263px;
+  border-radius: .25rem;
+  animation: slideAnimation 5s infinite alternate;
+}
+.card img{
+  width: 430px;
+  height: 260px;
+  border-radius: .25rem;
+}

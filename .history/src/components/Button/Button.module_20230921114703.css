@@ -1,0 +1,16 @@
+.button{
+  color: #FFF;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  border-radius: .25rem;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 600;
+  cursor: pointer;
+  line-height: 24px;
+  transition: all .5s ease-in-out;
+}
+
+.button:hover{
+  opacity: 0.8;
+}
