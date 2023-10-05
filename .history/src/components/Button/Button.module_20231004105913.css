@@ -1,0 +1,18 @@
+.button{
+  color: #FFF;
+  text-align: center;
+  padding: 0.8rem 1rem;
+  border: none;
+  border-radius: .25rem;
+  font-size: 21px;
+  font-weight: 600;
+  cursor: pointer;
+  line-height: 24px;
+  transition: all .5s ease-in-out;
+  width: fit-content;
+  /* min-width: 15.625rem */
+}
+
+.button:hover{
+  opacity: 0.8;
+}

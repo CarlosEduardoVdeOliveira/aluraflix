@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.688rem 2.5rem;
+  background-color: rgba(0, 0, 0, 0.9);
+  z-index: 9999;
+  position: inherit;
+}
+
+.container img{
+  width: 10.528rem;
+}

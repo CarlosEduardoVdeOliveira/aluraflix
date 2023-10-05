@@ -1,0 +1,251 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "name": "Quais as melhores práticas com React?",
+      "link": "https://www.youtube.com/watch?v=k77WZrvuDQU&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/k77WZrvuDQU/sddefault.jpg",
+      "category": "Front End",
+      "description": "Recebemos o @DevSoutinho nesse Hipsters Ponto Tube para falar sobre as melhores práticas com React e como você pode aproveitar melhor as possibilidades dessa tecnologia no cenário atual. "
+    },
+    {
+      "id": 2,
+      "name": "Crie componentes DESSA FORMA no React (Pattern de composição)",
+      "link": "https://www.youtube.com/watch?v=oPOKpSFqy-I&ab_channel=Rocketseat",
+      "thumbnail": "https://i.ytimg.com/vi/oPOKpSFqy-I/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "Dentro da nossa aplicação, por mais simples que ela seja, os componentes podem ter um número absurdo de customizações (que eu vou te mostrar no vídeo). 😂"
+    },
+    {
+      "id": 3,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 4,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 5,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 6,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+      "category": "Back End",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 7,
+      "name": "O que é React Native? #HipstersPontoTube",
+      "link": "https://www.youtube.com/watch?v=O6TnaSkSC48&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/O6TnaSkSC48/maxresdefault.jpg",
+      "category": "Mobile",
+      "description": "React Native: como, quando e por que desenvolver aplicações híbridas, ou seja, para iOS e Android, utilizando este framework?"
+    },
+    {
+      "id": 8,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=MGIs7DSQ-0A&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/MGIs7DSQ-0A/maxresdefault.jpg",
+      "category": "Mobile",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 9,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=MGIs7DSQ-0A&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/MGIs7DSQ-0A/maxresdefault.jpg",
+      "category": "Mobile",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 10,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 11,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 12,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Data Science",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 13,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "UX",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 14,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "UX",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 15,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "UX",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 16,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Infra",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 17,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Infra",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 18,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Infra",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 19,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Inovation",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 20,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Inovation",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 21,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "Inovation",
+      "description": "Descrição qualquer"
+    },
+    {
+      "id": 22,
+      "name": "Homem-Aranha - Sem Volta Para Casa",
+      "link": "https://www.youtube.com/watch?v=CyiiEJRZjSU",
+      "thumbnail": "https://i.ytimg.com/vi/CyiiEJRZjSU/maxresdefault.jpg",
+      "category": "AI",
+      "description": "Descrição qualquer"
+    },
+    {
+      "name": "Criando landing page completa do ZERO - part 01 (HTML, CSS, SASS)",
+      "link": "https://www.youtube.com/watch?v=Fzc_dnqD-V0&ab_channel=Sujeitoprogramador",
+      "thumbnail": "https://i.ytimg.com/vi/Fzc_dnqD-V0/maxresdefault.jpg",
+      "category": "Front End",
+      "description": "Se você curte nosso conteúdo já deixa seu like e se inscreve no canal pra não perder os próximos vídeos toda semana 🔥",
+      "codigo": "02a2541c-1709-4d09-8eba-872e011cee2c",
+      "id": 23
+    },
+    {
+      "name": "Como desenvolver boas práticas de programação? com Fabio Akita | #HipstersPontoTube",
+      "link": "https://www.youtube.com/watch?v=GUanHEGlje4&ab_channel=Alura",
+      "thumbnail": "https://i.ytimg.com/vi/GUanHEGlje4/maxresdefault.jpg",
+      "category": "Inovação & Gestão",
+      "description": "A tecnologia não para de evoluir e sempre surgem novas formas de escrever um código. Por isso, aplicar boas práticas de programação é fundamental para aprimorar o ambiente de trabalho, ter qualidade no momento de programar e manter o código legível, organizado e funcional.\n",
+      "codigo": "602b23d7-fde9-4968-a274-1d04ce1fc5f8",
+      "id": 24
+    }
+  ],
+  "categories": [
+    {
+      "name": "Front End",
+      "description": "Todos os vídeo da área de Front End.",
+      "color": "#09298b",
+      "codigo": "fdd",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Back End",
+      "description": "Todos os vídeo que estou usando para estudar Back End ",
+      "color": "#69953B"
+    },
+    {
+      "name": "Design",
+      "description": "Ferramentas e técnicas que estudo sobre design",
+      "color": "#6fdc9e",
+      "codigo": "1111",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Infraestrutura",
+      "description": "Tudo que estou aprendendo sobre Docker e muito mais",
+      "color": "#9CD33B"
+    },
+    {
+      "id": "5",
+      "name": "Marketing Digital",
+      "description": "A forma de vender a monetizar minhas ideias",
+      "color": "#6B5BE2"
+    },
+    {
+      "id": "6",
+      "name": "Data Science",
+      "description": "Coisas de R e Python que venho aprendendo",
+      "color": "#9CD33B"
+    },
+    {
+      "id": "7",
+      "name": "Inovação & Gestão",
+      "description": "Como manter o time feliz e muito mais",
+      "color": "#FF8C2A"
+    },
+    {
+      "name": "Mobile",
+      "description": "Todos os vídeo que uso para estudar Mobile.",
+      "color": "#b70dd9",
+      "codigo": "fff",
+      "id": "8"
+    }
+  ]
+}
