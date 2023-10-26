@@ -1,0 +1,211 @@
+{
+  "categories": [
+    {
+      "name": "Front End",
+      "description": "Todos os vídeo da área de Front End.",
+      "color": "#2a5cf4",
+      "codigo": "fdd",
+      "id": "1",
+      "videos": [
+        {
+          "id": 1,
+          "name": "Quais as melhores práticas com React?",
+          "link": "https://www.youtube.com/watch?v=k77WZrvuDQU&ab_channel=Alura",
+          "thumbnail": "https://i.ytimg.com/vi/k77WZrvuDQU/sddefault.jpg",
+          "category": "Front End",
+          "description": "Recebemos o @DevSoutinho nesse Hipsters Ponto Tube para falar sobre as melhores práticas com React e como você pode aproveitar melhor as possibilidades dessa tecnologia no cenário atual. "
+        },
+        {
+          "id": 2,
+          "name": "Crie componentes DESSA FORMA no React (Pattern de composição)",
+          "link": "https://www.youtube.com/watch?v=oPOKpSFqy-I&ab_channel=Rocketseat",
+          "thumbnail": "https://i.ytimg.com/vi/oPOKpSFqy-I/maxresdefault.jpg",
+          "category": "Front End",
+          "description": "Dentro da nossa aplicação, por mais simples que ela seja, os componentes podem ter um número absurdo de customizações (que eu vou te mostrar no vídeo). 😂"
+        },
+        {
+          "id": 3,
+          "name": "Homem-Aranha - Sem Volta Para Casa",
+          "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+          "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+          "category": "Front End",
+          "description": "Descrição qualquer"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Back End",
+      "description": "Todos os vídeo que estou usando para estudar Back End ",
+      "color": "#69953B",
+      "videos": [
+        {
+          "id": 4,
+          "name": "Como sair do ZERO em Node.js",
+          "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
+          "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
+          "category": "Back End",
+          "description": "O que você precisa saber para criar a sua primeira aplicação em Node.js?"
+        },
+        {
+          "id": 5,
+          "name": "Guia de Carreira JAVA",
+          "link": "https://www.youtube.com/watch?v=TUBqH9zVs3M&ab_channel=Alura",
+          "thumbnail": "https://i.ytimg.com/vi/TUBqH9zVs3M/maxresdefault.jpg",
+          "category": "Back End",
+          "description": "Com o Guia de Carreira Java, saiba o que é e para que serve o Java e descubra o passo a passo para sair do INICIANTE ao AVANÇADO. "
+        },
+        {
+          "id": 6,
+          "name": "O que é Node.js?",
+          "link": "https://www.youtube.com/watch?v=8VSTrZY8vwI&ab_channel=Alura",
+          "thumbnail": "https://i.ytimg.com/vi/8VSTrZY8vwI/maxresdefault.jpg",
+          "category": "Back End",
+          "description": "A Juliana Amoasei, Instrutora na Escola de Programação aqui na Alura, apresenta a vocês o Node.js, o ambiente de execução do Javascript. "
+        }
+      ]
+    },
+    {
+      "name": "UX Design",
+      "description": "Ferramentas e técnicas que estudo sobre design",
+      "color": "#6fdc9e",
+      "codigo": "1111",
+      "id": "3",
+      "videos": [
+        {
+          "id": 13,
+          "name": "O que é e o que faz quem trabalha com UX?",
+          "link": "https://www.youtube.com/watch?v=FJhMCi07T4A&ab_channel=Alura",
+          "thumbnail": "https://i.ytimg.com/vi/FJhMCi07T4A/maxresdefault.jpg",
+          "category": "UX Design",
+          "description": "Chegou o episódio com a musa brasileira de UX, a Carla de Bona! Entenda a Experiência do Usuário e porque ela é importante para qualquer negócio, seja de produtos ou serviços. "
+        },
+        {
+          "id": 14,
+          "name": "UX/UI: Quando design e programação se conectam",
+          "link": "https://www.youtube.com/watch?v=ewNg4vPKfpo&ab_channel=Rocketseat",
+          "thumbnail": "https://i.ytimg.com/vi/ewNg4vPKfpo/maxresdefault.jpg",
+          "category": "UX Design",
+          "description": "A gente passa a maior parte do tempo escrevendo código. Agora chegou o momento de falar sobre isso."
+        },
+        {
+          "id": 15,
+          "name": "CARREIRA DE UX DESIGN: Tudo para você começar",
+          "link": "https://www.youtube.com/watch?v=-BCNPcu3eV0&ab_channel=PrimoTech",
+          "thumbnail": "https://i.ytimg.com/vi/-BCNPcu3eV0/maxresdefault.jpg",
+          "category": "UX Design",
+          "description": "No PrimoTech de hoje vamos falar sobre a importante área do Design UX e UI, que está em crescente ascensão de vagas no mercado e com profissionais muito requisitados pelas empresas."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Infraestrutura",
+      "description": "Tudo que estou aprendendo sobre Docker e muito mais",
+      "color": "#9CD33B",
+      "videos": [
+        
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Data Science",
+      "description": "Coisas de R e Python que venho aprendendo",
+      "color": "#9CD33B",
+      "videos": [
+        {
+          "id": 10,
+          "name": "Guia de carreira DATA SCIENCE",
+          "link": "https://www.youtube.com/watch?v=7KhaiCC3fJQ&ab_channel=Alura",
+          "thumbnail": "https://i.ytimg.com/vi/7KhaiCC3fJQ/maxresdefault.jpg",
+          "category": "Data Science",
+          "description": "Com o Guia de Carreira Data Science, aprenda o que é CIÊNCIA de DADOS e quais os caminhos possíveis para atuar na profissão de Cientista de Dados."
+        },
+        {
+          "id": 11,
+          "name": "Data Science: Introdução a Ciência de Dados (Primeira aula prática programando em Python)",
+          "link": "https://www.youtube.com/watch?v=F608hzn_ygo&t=107s&ab_channel=FilipeDeschamps",
+          "thumbnail": "https://i.ytimg.com/vi/F608hzn_ygo/maxresdefault.jpg",
+          "category": "Data Science",
+          "description": "Neste vídeo em específico vamos dar os primeiros passos com Data Science (Ciência de Dados)."
+        },
+        {
+          "id": 12,
+          "name": "O que é Data Science?",
+          "link": "https://www.youtube.com/watch?v=5b9Z8toVaAU&ab_channel=Alura",
+          "thumbnail": "https://i.ytimg.com/vi/5b9Z8toVaAU/maxresdefault.jpg",
+          "category": "Data Science",
+          "description": "Python é o novo Excel? Para que serve o R, Pandas e Jupyter? E qual é, afinal, a diferença entre o Data Science, Business Intelligence e Machine Learning? Descubra no primeiro episódio de Hipsters Ponto Tube! "
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Inovação & Gestão",
+      "description": "Como manter o time feliz e muito mais",
+      "color": "#FF8C2A",
+      "videos": [
+        {
+          "name": "Como desenvolver boas práticas de programação? com Fabio Akita | #HipstersPontoTube",
+          "link": "https://www.youtube.com/watch?v=GUanHEGlje4&ab_channel=Alura",
+          "thumbnail": "https://i.ytimg.com/vi/GUanHEGlje4/maxresdefault.jpg",
+          "category": "Inovação & Gestão",
+          "description": "A tecnologia não para de evoluir e sempre surgem novas formas de escrever um código. Por isso, aplicar boas práticas de programação é fundamental para aprimorar o ambiente de trabalho, ter qualidade no momento de programar e manter o código legível, organizado e funcional.\n",
+          "codigo": "602b23d7-fde9-4968-a274-1d04ce1fc5f8",
+          "id": 18
+        }
+      ]
+    },
+    {
+      "name": "Mobile",
+      "description": "Todos os vídeo que uso para estudar Mobile.",
+      "color": "#b70dd9",
+      "codigo": "fff",
+      "id": "8",
+      "videos": [
+        {
+          "id": 7,
+          "name": "O que é React Native? #HipstersPontoTube",
+          "link": "https://www.youtube.com/watch?v=O6TnaSkSC48&ab_channel=Alura",
+          "thumbnail": "https://i.ytimg.com/vi/O6TnaSkSC48/maxresdefault.jpg",
+          "category": "Mobile",
+          "description": "React Native: como, quando e por que desenvolver aplicações híbridas, ou seja, para iOS e Android, utilizando este framework?"
+        },
+        {
+          "id": 8,
+          "name": "Desenvolvimento iOS pra iniciantes com Giovanna Moeller",
+          "link": "https://www.youtube.com/watch?v=MGIs7DSQ-0A&ab_channel=Alura",
+          "thumbnail": "https://i.ytimg.com/vi/MGIs7DSQ-0A/maxresdefault.jpg",
+          "category": "Mobile",
+          "description": "Por onde começar em iOS? Qual linguagem é importante dominar? Quais ferramentas necessárias para mergulhar no desenvolvimento iOS? 🤔"
+        },
+        {
+          "id": 9,
+          "name": "Como começar no React Native em 2023",
+          "link": "https://www.youtube.com/watch?v=CO4C9UVaFKk&ab_channel=Rocketseat",
+          "thumbnail": "https://i.ytimg.com/vi/CO4C9UVaFKk/maxresdefault.jpg",
+          "category": "Mobile",
+          "description": "O mobile está se destacando cada vez mais no universo de desenvolvimento. Com o React Native você encontra uma nova forma de constuir apps móveis, tanto pra Android quanto para iOS, e o melhor: com JavaScript."
+        }
+      ]
+    },
+    {
+      "name": "Big Data",
+      "description": "Todos vídeos sobre DB estarão nessa seção",
+      "color": "#2a9bc0",
+      "codigo": "db",
+      "id": "tBzDB6-",
+      "videos": [
+        {
+          "name": "Discutindo sobre Banco de Dados - Dos primórdios a Big Data",
+          "link": "https://www.youtube.com/watch?v=Bfm3Ms2cTg0&ab_channel=FabioAkita",
+          "thumbnail": "https://i.ytimg.com/vi/Bfm3Ms2cTg0/maxresdefault.jpg",
+          "category": "Big Data",
+          "description": "Não se pode ser um bom programador sem entender de verdade como bancos de dados funcionam. E não se pode entender banco de dados sem entender algoritmos e estruturas de dados.",
+          "codigo": "0c7631fb-cc38-4cae-9009-ecbd441d108b",
+          "id": 19
+        }
+      ]
+    }
+  ]
+}
