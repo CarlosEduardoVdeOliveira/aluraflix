@@ -5,12 +5,13 @@ import styles from "./Container.module.css";
 import Carousel from "react-material-ui-carousel";
 import { Card } from "../Card";
 import { Category } from "../Category";
-import CategoryContext from "../../contexts/contextCategory";
+/* import CategoryContext from "../../contexts/contextCategory"; */
 /* import VideoContext from "../../contexts/contextVideos"; */
+import {categories} from "../../../db.json"
 
 export const Container = ({ id }) => {
-  const {categories} = useContext(CategoryContext)
-  console.log(categories);
+/*   const {categories} = useContext(CategoryContext)
+  console.log(categories); */
   /* const {videos} = useContext(VideoContext) */
   /* console.log(videos, categories); */
   return (
@@ -32,16 +33,21 @@ export const Container = ({ id }) => {
               {
                 category.videos.map(video => {
                     return (
-                      <Card
-                        id={video.id}
-                        key={video.id}
-                        link={video.link}
-                        thumbnail={video.thumbnail}
-                        borderColor={category.color}
-                        description={video.description}
-                      />
+                      (
+                        category.name === video.category ?
+                          <Card
+                          id={video.id}
+                          key={video.id}
+                          link={video.link}
+                          thumbnail={video.thumbnail}
+                          borderColor={category.color}
+                          description={video.description}
+                        />:
+                        ""
+                      )
                     )
                   })
+                
               }
             </div>
           </Carousel>

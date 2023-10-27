@@ -2,8 +2,8 @@
 /* eslint-disable react/prop-types */
 import React, {createContext, useEffect, useState} from 'react';
 const VideoContext = createContext();
-const baseUrlApi = "https://my-json-server.typicode.com/carloseduardovdeoliveira/aluraflix-api/categories"
-/* const baseUrlApi = "../../db.json" */
+//const baseUrlApi = "https://my-json-server.typicode.com/carloseduardovdeoliveira/aluraflix-api/categories"
+const baseUrlApi = "../../db.json"
 export function VideoContextProvider({children}) {
   const [videos, setVideos] = useState([])
   

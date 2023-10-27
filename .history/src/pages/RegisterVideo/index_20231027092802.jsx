@@ -35,10 +35,10 @@ export const RegisterVideo = () => {
     .then(data => {
       categories.map(category =>{ 
         category.videos.map(video =>
-          setVideo(video, data)
+          setVideo(data)
         )
       })
-      console.log(video);
+      console.log(data);
     });
     setName('')
     setLink('')

@@ -5,8 +5,9 @@ import styles from "./Container.module.css";
 import Carousel from "react-material-ui-carousel";
 import { Card } from "../Card";
 import { Category } from "../Category";
-import CategoryContext from "../../contexts/contextCategory";
+/* import CategoryContext from "../../contexts/contextCategory"; */
 /* import VideoContext from "../../contexts/contextVideos"; */
+/* import {categories} from "../../../db.json" */
 
 export const Container = ({ id }) => {
   const {categories} = useContext(CategoryContext)

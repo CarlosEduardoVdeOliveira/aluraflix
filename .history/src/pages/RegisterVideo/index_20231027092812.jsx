@@ -38,7 +38,7 @@ export const RegisterVideo = () => {
           setVideo(video, data)
         )
       })
-      console.log(video);
+      console.log(data);
     });
     setName('')
     setLink('')

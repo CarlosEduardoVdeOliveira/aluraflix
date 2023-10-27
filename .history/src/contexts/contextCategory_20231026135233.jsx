@@ -39,7 +39,8 @@ export function CategoryContextProvider({children}) {
     <CategoryContext.Provider value={{
       deleteCategory,
       categories,
-      setCategories
+      setCategories,
+      editCategory
     }}>
       {children}
     </CategoryContext.Provider>

@@ -10,9 +10,7 @@ import CategoryContext from "../../contexts/contextCategory";
 
 export const Container = ({ id }) => {
   const {categories} = useContext(CategoryContext)
-  console.log(categories);
   /* const {videos} = useContext(VideoContext) */
-  /* console.log(videos, categories); */
   return (
     <>
       {categories.map((category) => (

@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { Button } from "../../components/Button";
 import { Input, Select, TextArea } from "../../components/Inputs";
 import styles from './Register.module.css'
-/* import {categories} from '../../../db.json' */
+import {categories} from '../../../db.json'
 import { useContext, useState } from "react";
 import { v4 as uuidv4 } from 'uuid';
 import CategoryContext from "../../contexts/contextCategory";
@@ -17,9 +17,8 @@ export const RegisterVideo = () => {
   const [category, setCategory] = useState("");
   const [description, setDescription] = useState('');
   const [codigo, setCodigo] = useState('');
-  const [video, setVideo] = useState({});
+  const [videosState, setVideosState] = useState([]);
   const {categories} = useContext(CategoryContext)
-  
   const handleSubmit = (event) => {
     event.preventDefault();
     const newVideo = { name, link, thumbnail, category, description, codigo: id };
@@ -33,12 +32,8 @@ export const RegisterVideo = () => {
     })
     .then(res => res.json())
     .then(data => {
-      categories.map(category =>{ 
-        category.videos.map(video =>
-          setVideo(video, data)
-        )
-      })
-      console.log(video);
+      setVideosState(prevVideos => [...prevVideos, data]);
+      console.log(data);
     });
     setName('')
     setLink('')

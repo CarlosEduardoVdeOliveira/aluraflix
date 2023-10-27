@@ -5,7 +5,7 @@ const VideoContext = createContext();
 const baseUrlApi = "https://my-json-server.typicode.com/carloseduardovdeoliveira/aluraflix-api/categories"
 /* const baseUrlApi = "../../db.json" */
 export function VideoContextProvider({children}) {
-  const [videos, setVideos] = useState([])
+  const [videos, setVideos] = useState([{}])
   
     useEffect(()=>{
       fetch(`${baseUrlApi}`)

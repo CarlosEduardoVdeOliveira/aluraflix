@@ -17,7 +17,7 @@ export const RegisterVideo = () => {
   const [category, setCategory] = useState("");
   const [description, setDescription] = useState('');
   const [codigo, setCodigo] = useState('');
-  const [video, setVideo] = useState({});
+  const [videos, setVideos] = useState([]);
   const {categories} = useContext(CategoryContext)
   
   const handleSubmit = (event) => {
@@ -35,10 +35,10 @@ export const RegisterVideo = () => {
     .then(data => {
       categories.map(category =>{ 
         category.videos.map(video =>
-          setVideo(video, data)
+          console.log(video)
         )
       })
-      console.log(video);
+      console.log(data);
     });
     setName('')
     setLink('')

@@ -8,7 +8,7 @@ const baseUrlApi = "https://my-json-server.typicode.com/carloseduardovdeoliveira
 export function CategoryContextProvider({children}) {
   const [categories, setCategories] = useState([])
 
-/*  const editCategory = (id, name, description, color) => {
+  const editCategory = (id, name, description, color) => {
     fetch(`http://localhost:3000/categories/${id}`, {
     method: 'PUT',
     headers: {
@@ -19,7 +19,7 @@ export function CategoryContextProvider({children}) {
     .then(res => res.json())
     .then(data => setCategories(data))
     return categories
-  }; */
+  };
 
 
     useEffect(()=>{

@@ -103,7 +103,9 @@
       "name": "Infraestrutura",
       "description": "Tudo que estou aprendendo sobre Docker e muito mais",
       "color": "#9CD33B",
-      "videos": []
+      "videos": [
+        
+      ]
     },
     {
       "id": "6",
